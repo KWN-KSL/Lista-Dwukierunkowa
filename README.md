@@ -9,15 +9,15 @@ Program umożliwia wykonywanie wszystkich podstawowych operacji na liście dwuki
 ### ➕ Dodawanie:
 * Na początek (z lewej lub prawej strony)
 * Za wskazanym elementem
-➖ Usuwanie:  
+### ➖ Usuwanie:  
 * Pierwszego elementu z lewej/prawej
 * Wskazanego elementu
-🔍 Wyszukiwanie:  
+### 🔍 Wyszukiwanie:  
 * Elementu o zadanej wartości atrybutu
-📜 Wypisywanie:  
+### 📜 Wypisywanie:  
 * Całej listy w aktualnym kierunku
-🧹 Zwalnianie pamięci całej listy  
-🔄 Sortowanie:  
+### 🧹 Zwalnianie pamięci całej listy  
+### 🔄 Sortowanie:  
 * Metoda bąbelkowa z dynamiczną zmianą kierunku przeglądania
 ## ⚙️ Struktura programu  
 * Implementacja oparta na dynamicznej strukturze danych (własna struktura Node)
