@@ -11,7 +11,7 @@ Program umożliwia wykonywanie wszystkich podstawowych operacji na liście dwuki
 * Za wskazanym elementem
 ➖ Usuwanie:  
 * Pierwszego elementu z lewej/prawej
-* Wskazanego elementu  
+* Wskazanego elementu
 🔍 Wyszukiwanie:  
 * Elementu o zadanej wartości atrybutu
 📜 Wypisywanie:  
