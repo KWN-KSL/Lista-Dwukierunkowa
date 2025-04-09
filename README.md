@@ -8,7 +8,7 @@ Celem było stworzenie w pełni funkcjonalnej listy liniowej dwukierunkowej, poz
 Program umożliwia wykonywanie wszystkich podstawowych operacji na liście dwukierunkowej:  
 ➕ Dodawanie:  
 * Na początek (z lewej lub prawej strony)
-* Za wskazanym elementem
+* Za wskazanym elementem  
 ➖ Usuwanie:  
 * Pierwszego elementu z lewej/prawej
 * Wskazanego elementu  
@@ -19,7 +19,7 @@ Program umożliwia wykonywanie wszystkich podstawowych operacji na liście dwuki
 🧹 Zwalnianie pamięci całej listy  
 🔄 Sortowanie:  
 * Metoda bąbelkowa z dynamiczną zmianą kierunku przeglądania
-⚙️ Struktura programu  
+## ⚙️ Struktura programu  
 * Implementacja oparta na dynamicznej strukturze danych (własna struktura Node)
 * Wykorzystanie wskaźników do poprzedniego i następnego elementu
 * Menu obsługiwane z poziomu konsoli
