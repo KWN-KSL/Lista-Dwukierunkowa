@@ -4,6 +4,7 @@ Celem było stworzenie w pełni funkcjonalnej listy liniowej dwukierunkowej, poz
 ## 🧭 Menu główne
 ![image](https://github.com/user-attachments/assets/b153bb14-ccdf-4aae-8d3a-103561a627d9)
 ## 📋 Przykład działania listy
+![image](https://github.com/user-attachments/assets/76c9cd48-add5-403a-9e0a-83aafac7577b)
 ## 🔧 Zakres funkcjonalności
 Program umożliwia wykonywanie wszystkich podstawowych operacji na liście dwukierunkowej:  
 ### ➕ Dodawanie:
