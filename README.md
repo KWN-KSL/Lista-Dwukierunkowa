@@ -6,7 +6,7 @@ Celem było stworzenie w pełni funkcjonalnej listy liniowej dwukierunkowej, poz
 ## 📋 Przykład działania listy
 ## 🔧 Zakres funkcjonalności
 Program umożliwia wykonywanie wszystkich podstawowych operacji na liście dwukierunkowej:  
-➕ Dodawanie:
+### ➕ Dodawanie:
 * Na początek (z lewej lub prawej strony)
 * Za wskazanym elementem
 ➖ Usuwanie:  
